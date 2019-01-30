@@ -29,12 +29,6 @@ The sample demonstrates the following, using the [Bluetooth API][1]:
 [6]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#ConnectingAsAClient
 [7]: http://developer.android.com/guide/topics/connectivity/bluetooth.html#ManagingAConnection
 
-Pre-requisites
---------------
-
-- Android SDK 27
-- Android Build Tools v27.0.2
-- Android Support Repository
 
 Screenshots
 -------------
@@ -52,12 +46,6 @@ Support
 
 - Google+ Community: https://plus.google.com/communities/105153134372062985968
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-BluetoothChat
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
 License
 -------
